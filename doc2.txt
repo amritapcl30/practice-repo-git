@@ -1,1 +1,2 @@
 Hello from document2
+Rebase change in document 2
